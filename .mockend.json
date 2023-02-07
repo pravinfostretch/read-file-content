@@ -28,7 +28,8 @@
       "boolean": {}
     },
     "gender": {
-      "boolean": {}
+      "string": {
+      }
     }
   }
 }
