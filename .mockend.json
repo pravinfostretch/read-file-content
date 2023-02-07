@@ -27,5 +27,8 @@
     "isPublic": {
       "boolean": {}
     }
+    "gender": {
+      "boolean": {}
+    }
   }
 }
